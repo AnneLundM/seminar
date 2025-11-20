@@ -17,6 +17,7 @@ function Cardsection() {
         </a>
       </div>
       <h1>Cardsection</h1>
+      <p>BobTheman</p>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
